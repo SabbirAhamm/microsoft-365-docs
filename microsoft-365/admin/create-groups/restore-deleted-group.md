@@ -47,6 +47,8 @@ When a group is restored, the following content is restored:
     
 - Teams
 
+- Microsoft Forms(If it is office group forms)
+
 - Yammer group and group content (If the Microsoft 365 group was created from Yammer)
 
 - Power BI [Classic workspace](/power-bi/collaborate-share/service-create-workspaces)
